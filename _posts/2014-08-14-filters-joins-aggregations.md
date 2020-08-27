@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: A (brief and incomplete) history of censorship in /r/Bitcoin
 ---
 
 This is a long, working document that is nowhere near complete. I attempt to show through a chronology of primary source material that Bitcoin was systematically hijacked and directed against its original vision of scaling on-chain. 
