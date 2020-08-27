@@ -189,7 +189,7 @@ blockquote {
   margin: .8rem 0;
   color: #696868;
   border-left: .25rem solid #e5e5e5;
-  letter-spacing: -.3em;
+  letter-spacing: -.03em;
 }
 blockquote p:last-child {
   margin-bottom: 0;
