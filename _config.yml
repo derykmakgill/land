@@ -9,7 +9,7 @@ highlighter:         true
 permalink:        pretty
 
 # Setup
-title:            Joshua Lande
+title:            mkgll
 tagline:          'Data Science, Apache Pig, Hadoop, Blogging, Tweets, Astrophysics'
 url:              http://www.joshualande.com
 shorturl:         joshualande.com
